@@ -13,12 +13,12 @@ lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
 emoji = "⨔"
-subtitle = "A blog style website dedicated to nerdy tech things..."
+subtitle = "A blog style website dedicated to nerdy tech things...written by a DevSecOps Engineer who aspires to be a writer."
 
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/Moshi-y-jason-307.png"
 
 [article]
 math = false
