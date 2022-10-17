@@ -30,7 +30,7 @@ That Oracle Cloud E2.1 Micro instance I mentioned earlier? That's included in th
 
 ### RaspberryPi
 
-This is the Quadra's closest competitor, and unfortunately I've never owned a Pi. However, from my testing, I'm unable to get CPU usage beyond 20% for extended periods of time, or memory usage above 50%. Inovato themselves recommend opting for the Pi 4 if you plan on intensive tasks, but I've yet to run into one. I recommend the Quadra as long as prolonged video consumption isn't a planned usage. I've included a pricing table below from the inovato website, but honestly at the time of writing this I can't find a Pi 4 kit under $100. 
+This is the Quadra's closest competitor, and unfortunately I've never owned a Pi. However, from my testing, I'm unable to get CPU usage beyond 20% for extended periods of time, or memory usage above 40%. Inovato themselves recommend opting for the Pi 4 if you plan on intensive tasks, but I've yet to run into one. I recommend the Quadra as long as prolonged video consumption isn't a planned usage. I've included a pricing table below from the inovato website, but honestly at the time of writing this I can't find a Pi 4 kit under $100. 
 
 |               | Quadra     | Raspberry Pi |
 |---------------|------------|--------------|
@@ -64,7 +64,7 @@ For $29, the inovato Quadra is an insane value in my eyes. It's fairly plug and 
 
 > Playing longer videos can make it shutdown due to heat. - Michael Burmeister-brown (inovato _Founder)_
 
-I cannot speak to this issue, as it did not occur during my testing. My testing focused on the following, and the inovato handled all tasks without a reboot. 
+I cannot speak to this issue, as it did not occur during my testing. My testing focused on the following, and the inovato handled all tasks without a reboot, and idled around 48°C with peaks at 57°C.
 
 *   Remote Hugo site development 
 *   Remote Python Development 
