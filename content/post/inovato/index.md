@@ -13,7 +13,7 @@ tags:
 ---
 ## First Impressions: 
 
-Recently, I purchased an inovato quadra for an [octoprint](https://octoprint.org/) server. I had planned on using a RaspberryPi, but stock was nonexistent. I found inovato thanks to a recommendation from the [3d printing subreddit](https://www.reddit.com/r/3Dprinting/). Comparable performance to a Raspberry Pi 3, CPU max TDP 4W, and comes preloaded with Debian? Needless to say, I gave it a shot!
+Recently, I purchased an inovato Quadra for an [octoprint](https://octoprint.org/) server. I had planned on using a RaspberryPi, but stock was nonexistent. I found inovato thanks to a recommendation from the [3d printing subreddit](https://www.reddit.com/r/3Dprinting/). Comparable performance to a Raspberry Pi 3, CPU max TDP 4W, and comes preloaded with Debian? Needless to say, I gave it a shot!
 
 I've included pictures to give a sense of the scale and I'm blown away by the punch it packs! The inovato Quadra scored a [363 multi-core score in Geekbench 5](https://browser.geekbench.com/v5/cpu/17700617). Roughly 29% higher when compared to an [Oracle Cloud E2.1 Micro instance](https://browser.geekbench.com/v5/cpu/17742735). 
 
